@@ -1,0 +1,29 @@
+{
+  "random_state": 42,
+  "test_size": 0.2,
+  "labelA": {
+    "n_total": 208,
+    "n_train": 166,
+    "n_test": 42,
+    "classes": [
+      0,
+      1
+    ],
+    "class_counts_full": {
+      "1": 111,
+      "0": 97
+    }
+  },
+  "labelB": {
+    "n_total": 147,
+    "n_train": 117,
+    "n_test": 30,
+    "classes": [
+      1
+    ],
+    "class_counts_full": {
+      "NaN": 98,
+      "1.0": 49
+    }
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "rows": 208,
+  "cols": 52,
+  "n_empty_columns": 7,
+  "n_single_value_columns": 8,
+  "n_exact_duplicate_groups": 1,
+  "likely_timestamp_columns": [
+    "Timestamp"
+  ],
+  "likely_email_columns": [
+    "Email Address"
+  ]
+}

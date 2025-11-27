@@ -1,0 +1,71 @@
+# Evaluation Report — Label A
+
+**Model:** `model_A.pkl`
+
+
+**Source data file (for reference):** `\mnt\data\love_survey_responses.xlsx`
+
+
+## Metrics
+
+- **accuracy**: 0.5476190476190477
+
+- **precision**: 0.5517241379310345
+
+- **recall**: 0.7272727272727273
+
+- **f1**: 0.6274509803921569
+
+- **roc_auc**: 0.5045454545454545
+
+- **pr_auc**: 0.495120898290996
+
+
+## Confusion Matrix
+
+![confusion](confusion_A.png)
+
+
+## ROC Curve
+
+![roc](fig_roc_A.png)
+
+
+## Precision-Recall Curve
+
+![pr](fig_pr_A.png)
+
+
+## Classification report
+
+```
+
+{
+  "0": {
+    "precision": 0.5384615384615384,
+    "recall": 0.35,
+    "f1-score": 0.42424242424242425,
+    "support": 20.0
+  },
+  "1": {
+    "precision": 0.5517241379310345,
+    "recall": 0.7272727272727273,
+    "f1-score": 0.6274509803921569,
+    "support": 22.0
+  },
+  "accuracy": 0.5476190476190477,
+  "macro avg": {
+    "precision": 0.5450928381962865,
+    "recall": 0.5386363636363636,
+    "f1-score": 0.5258467023172906,
+    "support": 42.0
+  },
+  "weighted avg": {
+    "precision": 0.5454086143741316,
+    "recall": 0.5476190476190477,
+    "f1-score": 0.5306850012732366,
+    "support": 42.0
+  }
+}
+
+```

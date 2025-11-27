@@ -1,0 +1,45 @@
+{
+  "initial_rows": 208,
+  "after_drop_rename_rows": 208,
+  "after_drop_rename_cols": 42,
+  "cols_dropped": [
+    "BẠN CÓ COI TÌNH YÊU HIỆN TẠI LÀ BƯỚC ĐẾN HÔN NHÂN KHÔNG  ",
+    "BẠN CÓ TIN VÀO TÌNH YÊU SÉT ĐÁNH KHÔNG?",
+    "BẠN NGHĨ Ở ĐỘ TUỔI NÀO THÌ NÊN KẾT HÔN?",
+    "Bạn cảm thấy gia đình có ảnh hưởng đến mối quan hệ của bạn không?",
+    "Column 20",
+    "Column 48",
+    "Column 48.1",
+    "Email Address",
+    "Score",
+    "Timestamp"
+  ],
+  "numeric_imputed_counts": {
+    "bạn_có_cảm_thấy_áp_lực_từ_gia_đình_hoặc_xã_hội_về_việc_phải_có_người_yêu_không": 61,
+    "mức_độ_hài_lòng_của_bạn_về_mối_quan_hệ_hiện_tại": 147,
+    "nếu_bạn_cảm_thấy_người_yêu_của_mình_quá_gần_gũi_người_khác_mức_độ_ghen_tị_của_bạn_ở_đâu": 147,
+    "bạn_cảm_thấy_gia_đình_có_ảnh_hưởng_đến_mối_quan_hệ_của_bạn_như_thế_nào": 147
+  },
+  "categorical_imputed_counts": {
+    "nếu_chưa_thì_có_những_lý_do_nào_khiến_bạn_chưa_có_người_yêu": 61,
+    "bạn_có_mong_muốn_tìm_được_người_yêu_trong_tương_lai_gần_không": 61,
+    "bạn_mong_muốn_mối_quan_hệ_trong_tương_lai_sẽ_kéo_dài_bao_lâu": 61,
+    "tiêu_chí_quan_trọng_nhất_với_bạn_khi_chọn_người_yêu": 61,
+    "bạn_đã_từng_thử_tiếp_cận_tình_yêu_qua_cách_nào": 61,
+    "nếu_có_thì_bạn_đã_chia_tay_vì_những_lý_do_gì": 61,
+    "mối_quan_hệ_của_bạn_đã_kéo_dài_bao_lâu": 147,
+    "bạn_và_người_yêu_hiện_tại_quen_nhau_qua_phương_thức_nào": 147,
+    "trong_tình_yêu_bạn_cảm_thấy_yếu_tố_nào_là_quan_trọng_nhất": 147,
+    "bạn_và_người_yêu_có_thường_xuyên_xung_đột_không": 147,
+    "bạn_và_người_yêu_có_cùng_quan_điểm_về_tình_dục_không": 149,
+    "nếu_bạn_đang_ở_trong_một_mối_quan_hệ_nhưng_gặp_người_khác_phù_hợp_hơn_bạn_có_ý_định_chấm_dứt_mối_quan_hệ_hiện_tại_để_theo_đuổi_người_đó_không": 147,
+    "bạn_và_người_yêu_có_chia_sẻ_chung_mục_tiêu_tương_lai_học_tập_nghề_nghiệp_không": 147,
+    "bạn_có_mong_muốn_kết_hôn_với_người_yêu_hiện_tại_không": 147
+  },
+  "rows_dropped_for_labelA": 0,
+  "rows_dropped_for_labelB": 61,
+  "col_rename_map_path": "data\\col_rename_map.csv",
+  "clean_v1_path": "data\\clean_data_v1.csv",
+  "clean_for_labelA_path": "data\\clean_for_labelA.csv",
+  "clean_for_labelB_path": "data\\clean_for_labelB.csv"
+}
